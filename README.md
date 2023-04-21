@@ -45,6 +45,14 @@ Possible Datasets:
 
 - [https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek](https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek)
 
+### Potential Guilds from BBG to Scrap user data
+
+- 1206 users [https://boardgamegeek.com/guild/2246]
+
+- 1233 users [https://boardgamegeek.com/guild/2198]
+
+- 996 users [https://boardgamegeek.com/guild/1338]
+
 ## A Tentative List of Milestones for the Project
 
 The roles we have not divided yet, as we are still all working together in looking for appropriate data and outlining our project. Our roles will be more fleshed out in the process.
