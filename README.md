@@ -1,4 +1,4 @@
-# BoardGame Recommender
+# BoardGame Recommender TEST
 
 ## Abstract
 Our project consists of 4 parts:
