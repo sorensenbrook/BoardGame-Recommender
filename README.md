@@ -6,7 +6,7 @@ Our project consists of 4 parts:
 - Survey Software 	
 	- We want to make software that asks questions about the players' preferences and saves these answers for later use in the recommender system
  
-- Scraping / Creating a Detailed Database
+- Creating a Detailed Database
 
 	 - Creating detailed database which focus on: name, description, mechanisms of the game, category, rating, playtime, number of players, theme, price.
 
