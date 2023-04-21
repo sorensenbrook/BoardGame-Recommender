@@ -50,11 +50,19 @@ Possible Datasets:
 The roles we have not divided yet, as we are still all working together in looking for appropriate data and outlining our project. Our roles will be more fleshed out in the process.
 
 - Extract information from [https://boardgamegeek.com](https://boardgamegeek.com/)
+#### DONE
 
 - Create database with focus on: name, description, mechanisms of the game, category, rating, playtime, number of players, theme, price
+#### NEED: playtime, num. of players
 
 - Create questionnaire that users can fill in with their preferences on set parameters
+#### NEED: make the software(?) that asks the questions and saves answers
 
 - Create recommender system
+#### NEED: hardcore TM classification problem
 
 - Present results in a user-friendly way
+#### NEED: again, make software(?) for user-friendly way
+
+- Evaluation of recommender system
+#### NEED: maybe by users? maybe automated based on user data on BGG?
