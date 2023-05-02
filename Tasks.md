@@ -99,17 +99,3 @@ A small story about the recommended games. Why is it recommended and what is the
 - Keep a logbook on when what is done
 - Make notes in the code on why and how it is programmed
 
-## Tasks
-
-First, we divided task from the first phase among the three of us. 
-
-Thereafter we worked on our own tasks individually. Occasionally we met to discuss how to connect our work in a smooth way or how our all parts should interplay. So far this is what we got: 
-
-#### Joep (questionnaire, user interface):
-Did some research on how to make and use graphical user interface using PySimpleGUI. This way can ask the question from the questionnaire and present the results in a user-friendly way. Furthermore, worked on how to extract key information which is necessary for the recommender system from user answers. (See code: extract_info_noun). Finally, worked a bit on which questions to ask in odor to get the user to give the right type of answers (see document: questionnaire).
-
-#### Iason (data, GitHub):
-Found and edited the appropriate data. From a Kaggle dataset with hundreds of categories, I made sub-selections and groupings which combine all the useful categories we have, such that there is a direct correspondence between our data and the features we want to extract. Also, I am in charge of updating GitHub with our project progress.
-
-#### Brook (TM model, GitHub):       
-Started making the user_to_feature model, to be tested further with the processed data that we collect. It also still needs to check and make sure that there is a word similiar enough and a way to deal with it when it is not. Also, created the GitHub page, and work on it regularly. Also looked into different user information that could be scrapped to test the recommender by comparing the wishlist of users to the recommended games. 
