@@ -33,6 +33,12 @@ A small story about the recommended games. Why is it recommended and what is the
   ☐ Present the description of the game to the user
   ☐ Explain why the 3 games where chosen and which game best match which preferences
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+OPTIMIZING
+	☐ Check if code is complete
+	☐ Check if comments explain the code enough
+	☐ Check if anything can be made more efficient
+
 EVALUTATION
 	A/B testing
 	Small survey to ask if people like their recommendation
