@@ -74,10 +74,10 @@ The roles we have not divided yet, as we are still all working together in looki
 #### NEED: playtime, num. of players --> DONE
 
 - Create questionnaire that users can fill in with their preferences on set parameters
-#### NEED: make the software(?) that asks the questions and saves answers
+#### NEED: make the software(?) that asks the questions and saves answers --> ALMOST DONE
 
 - Create recommender system
-#### NEED: hardcore TM classification problem
+#### NEED: hardcore TM classification problem --> SEE 'user_to_feature.py'
 
 - Present results in a user-friendly way
 #### NEED: again, make software(?) for user-friendly way
