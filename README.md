@@ -61,7 +61,7 @@ The roles we have not divided yet, as we are still all working together in looki
 #### DONE
 
 - Create database with focus on: name, description, mechanisms of the game, category, rating, playtime, number of players, theme, price
-#### NEED: playtime, num. of players
+#### NEED: playtime, num. of players --> DONE
 
 - Create questionnaire that users can fill in with their preferences on set parameters
 #### NEED: make the software(?) that asks the questions and saves answers
