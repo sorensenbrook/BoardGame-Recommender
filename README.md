@@ -18,32 +18,42 @@ Our project consists of 4 parts:
 	- In its recommendation, the software should summarize what the game is about and why it recommended it.
 
 
+We have separated these tasks into 3 phases, in accordance with the Project Updates:
+
+### 1st phase:
+- Questionnaire	
+We want to make software that asks questions about the players' preferences and saves these answers for later use in the recommender system
+ 
+- Detailed Database
+Creating detailed database which focus on: name, description, mechanisms of the game, category, rating, playtime, number of players and theme.
+
+- Recommender System
+	- Depending on the player’s given preferences, our software should recommend the top 3 board games to play.
+
+### 2nd phase:
+- Optimizing
+Check if all code is efficient and if there are enough comments 
+
+- Summarizing
+In its recommendation, the software should summarize what the game is about and why it recommended it.
+
+### 3rd phase:
+- Write the report 
+- Create presentation slides & content
+
+
 ## Research Questions
 
 Q1: Is it possible to find the best classification of board games based on these several parameters for each player?
 
 Q2: If we use supervised learning, how can we find labeled data for the best choice of board game based on player preferences?
 
+Q3: Using a detailed database, can we make a program that uses the answers from a questionnaire to determine which boardgame is best for a user? 
+
 ## Dataset
-Possible Datasets:
-
-- [https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews](https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews)
-
--  [https://www.kaggle.com/datasets/bananalee67/board-games-dataset](https://www.kaggle.com/datasets/bananalee67/board-games-dataset)
-
--   [https://www.kaggle.com/datasets/kevinparks/board-game-geek-top-2000](https://www.kaggle.com/datasets/kevinparks/board-game-geek-top-2000)
-
--  [https://www.kaggle.com/datasets/dannykho/boardgames-clean](https://www.kaggle.com/datasets/dannykho/boardgames-clean)
-
-- [https://www.kaggle.com/datasets/jingking/boardgaming-online-processed-game-records](https://www.kaggle.com/datasets/jingking/boardgaming-online-processed-game-records)
 
 -  [https://www.kaggle.com/datasets/caesuric/bgggamesdata](https://www.kaggle.com/datasets/caesuric/bgggamesdata)
 
-- [https://www.kaggle.com/datasets/medaxone/boardgamegeek-top100](https://www.kaggle.com/datasets/medaxone/boardgamegeek-top100)
-
--  [https://www.kaggle.com/datasets/extralime/20000-boardgames-dataset](https://www.kaggle.com/datasets/extralime/20000-boardgames-dataset)
-
-- [https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek](https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek)
 
 ### Potential Guilds from BBG to Scrap user data
 
@@ -55,7 +65,7 @@ Possible Datasets:
 
 ## A Tentative List of Milestones for the Project
 
-The roles we have not divided yet, as we are still all working together in looking for appropriate data and outlining our project. Our roles will be more fleshed out in the process.
+The roles we have not divided yet, as we are still all working together in looking for appropriate data and outlining our project. Our roles will be more fleshed out in the process. For the roles that we have divided so far, as seen through the tasks carried out by each of us in this first phase, see the 'Tasks' document.
 
 - Extract information from [https://boardgamegeek.com](https://boardgamegeek.com/)
 #### DONE
