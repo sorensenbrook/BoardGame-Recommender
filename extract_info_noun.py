@@ -58,3 +58,5 @@ print(f'Overall theme of input sentence user 1 is: {theme1}')
 print(f'Overall theme of input sentence user 2 is: {theme2}')
 print(f'Overall theme of input sentence user 3 is: {theme3}')
 
+def test(v):
+    print(v)
