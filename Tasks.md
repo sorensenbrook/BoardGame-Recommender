@@ -112,4 +112,4 @@ Did some research on how to make and use graphical user interface using PySimple
 Found and edited the appropriate data. From a Kaggle dataset with hundreds of categories, I made sub-selections and groupings which combine all the useful categories we have, such that there is a direct correspondence between our data and the features we want to extract. Also, I am in charge of updating GitHub with our project progress.
 
 #### Brook (TM model, GitHub):       
-Started making the user_to_feature model, to be tested further with the processed data that we collect. Also, created the GitHub page, and work on it regularly.
+Started making the user_to_feature model, to be tested further with the processed data that we collect. It also still needs to check and make sure that there is a word similiar enough and a way to deal with it when it is not. Also, created the GitHub page, and work on it regularly. Also looked into different user information that could be scrapped to test the recommender by comparing the wishlist of users to the recommended games. 
