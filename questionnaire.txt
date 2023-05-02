@@ -1,9 +1,16 @@
-Questions
+## QUESTIONS QUESTIONNAIRE
 
-What categories do you like?
+What overall theme would you prefer your boardgame has? What setting should the game take place? Like for example a medieval, civil war or trains themed game? 
+	Categories
 
-How many players do you normally play with?
+What type of game should it be? Like for example, a city building, humor or dice usage based game?
+	Categories
 
-How long do you want to spend playing a board game?
+What mechanisms should be used? How does the game get played? Use of voting, hidden roles or pattern recognition. 
+	Mechanisms 
 
+With how many players would you like to play the game?
+	Min number players + max number of players
 
+What is the maximum time the game should take? 
+	Playingtime
