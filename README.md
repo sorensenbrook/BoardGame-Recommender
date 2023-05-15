@@ -75,13 +75,13 @@ See tasks file for a more detailed discription
 ##### DONE
 
 - Create questionnaire that users can fill in with their preferences on set parameters
-##### NEED: make the software that asks the questions and saves answers --> In Pogress
+##### DONE
 
 - Create recommender system
 ##### NEED: hardcore TM classification problem --> SEE 'user_to_feature.py' file
 
 - Present results in a user-friendly way
-##### NEED: again, make software for user-friendly presentation
+##### NEED: few final tweaks
 
 - Evaluation of recommender system
 ##### NEED: way to evaluate the system
