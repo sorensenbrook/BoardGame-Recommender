@@ -113,7 +113,8 @@ def user_to_features (feature_list, user_input, dataform_list):
 
 
 
-def user_to_pref (input_dict, user_list)
+def user_to_pref (input_dict)
+  user_list = ["", "", 0, 0, 0, 0]
 
   #Category
   user_list[0] = (user_to_features(category_list, input_dict.get("A1"))[0], cat_list_lower)
@@ -135,5 +136,8 @@ def user_to_pref (input_dict, user_list)
 
   #Max time
   user_list[5] = max(input_dict.get("A4"))
+  
+  return user_list
 
+  
 
