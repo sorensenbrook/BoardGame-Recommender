@@ -132,10 +132,10 @@ def user_to_pref (input_dict)
   user_list[3] = max(input_dict.get("A4"))
 
   #Min time
-  user_list[4] = min(input_dict.get("A4"))
+  user_list[4] = min(input_dict.get("A5"))
 
   #Max time
-  user_list[5] = max(input_dict.get("A4"))
+  user_list[5] = max(input_dict.get("A5"))
   
   return user_list
 
