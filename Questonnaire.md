@@ -1,16 +1,17 @@
 # QUESTIONS QUESTIONNAIRE
 
-#### What overall theme would you prefer your boardgame to have? In what setting should the game take place? For example, a medieval, civil war, or trains-themed setting? 
+#### What setting or theme would you like your game to have? A theme refers to the specific context or background in which the game is set. Some examples of themes include the American Civil War, zombies, fantasy worlds, and so on.
+
 	(--> answer indicates Categories)
 
-#### What type of game should it be? Like for example, a city building, humor, or dice-usage based game?
+#### What specific genre or type of game would you prefer? Examples of game types include card games, word games, memory-based games, and so on.
 	(--> answer indicates Categories)
 
-#### What mechanisms should be used? How does the game get played? Think of voting, hidden roles or pattern recognition. 
+#### What kind of gameplay mechanics would you like your game to feature? In simpler terms, what type of actions or interactions should the game revolve around? Examples of gameplay mechanisms include voting, grid movement, zone controlment, luck-based or dice rolling games. 
 	(--> answer indicates Mechanisms)
 
-#### With how many players would you like to play the game?
+#### How many players would you like the game to accommodate?
 	(--> answer indicates min number players + max number of players, or any value acceptable within a min-max range)
 
-#### What is the maximum time the game should take? 
+#### What is the desired maximum duration for the game? Please provide the answer in minutes.
 	(--> answer indicates Playingtime)
