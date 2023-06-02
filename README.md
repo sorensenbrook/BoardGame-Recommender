@@ -18,7 +18,7 @@ Our model consists out of 3 parts:
 We have separated the whole project into 3 phases, in accordance with the tasks (see tasks.md file):
 
 ### 1st phase (creating the model):
-- Questionnaire	
+- Questionnaire	<br>
 We want to make software that asks questions about the players' preferences and saves these answers for later use in the recommender system
  
 - Detailed Database
