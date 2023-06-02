@@ -313,9 +313,9 @@ def find_intergers(sentence):
 
 
 ###############################################################################
-# This function only finds highest number. We want to find min and max if there 
-# are 2 numbers right? 
+# This function only finds highest number. We want to find min and max.
 ###############################################################################
+
 def find_all_numbers(user_input):
     '''
     Returns a list with smallest number and biggest number the users' answer  
@@ -664,7 +664,6 @@ def random_button():
     frame3.pack_forget()
     
     
-    
     frame3 = ck.CTkFrame(root, fg_color='#383838')
     frame3.pack(side='left', fill='both', expand=True, padx=5, pady=5)
     
@@ -706,8 +705,6 @@ title_game_3, discription_3, image_link_3 = random_game()
 
 image_link_1 = get_image_link(highest_ranked) 
 image_link_2 = get_image_link(most_ranked)
-
-
 
 title_game_1 = highest_ranked
 title_game_2 = most_ranked
@@ -811,9 +808,4 @@ discrip_label_3 = ck.CTkLabel(frame3_3, text=discription_3, font=ck.CTkFont(size
 discrip_label_3.pack() 
 
 
-
-        
-
 root.mainloop()
-
-
